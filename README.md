@@ -10,4 +10,4 @@ training a model from housing dataset
    - R² Score
    - Mean Squared Error
 8. **Plotted** the regression line using `matplotlib`
-9. **Tested** with my own input (example: area = 3000 sqft)
+9. **Tested** with my own input (example: area = 3000 sqft).
